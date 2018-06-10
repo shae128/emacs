@@ -33,7 +33,7 @@
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Functionality;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ( global-auto-complete-mode t )
-(ac-config-default) 
+(ac-config-default)
 
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;ORG Mode;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
@@ -51,7 +51,8 @@
 
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;YASnippets;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-(yas-global-mode 1) 
+(yas-global-mode 1)
+(global-set-key (kbd "C-x y") 'yas/create-php-snippet)
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Helm;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 (require 'helm-config)
@@ -134,3 +135,5 @@
 (add-hook 'sql-interactive-mode-hook 'sqlup-mode)
 ;; Set a global keyword to use sqlup on a region
 (global-set-key (kbd "C-c u") 'sqlup-capitalize-keywords-in-region)
+
+;;; init.el ends here 
