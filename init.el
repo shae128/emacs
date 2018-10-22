@@ -16,7 +16,7 @@
     ("83faf27892c7119f6016e3609f346d3dae3516dede8fd8a5940373d98f615b4e" "d9129a8d924c4254607b5ded46350d68cc00b6e38c39fc137c3cfb7506702c12" "d606ac41cdd7054841941455c0151c54f8bff7e4e050255dbd4ae4d60ab640c1" "f5512c02e0a6887e987a816918b7a684d558716262ac7ee2dd0437ab913eaec6" default)))
  '(package-selected-packages
    (quote
-    (jedi magit flycheck evil yasnippet-snippets helm php-auto-yasnippets yasnippet sqlup-mode php-mode emmet-mode auto-complete dracula-theme labburn-theme foggy-night-theme ## zenburn-theme highlight-indent-guides w3 org org-plus-contrib))))
+    (elpy jedi magit flycheck evil yasnippet-snippets helm php-auto-yasnippets yasnippet sqlup-mode php-mode emmet-mode auto-complete dracula-theme labburn-theme foggy-night-theme ## zenburn-theme highlight-indent-guides w3 org org-plus-contrib))))
 (custom-set-faces
  ;; custom-set-faces was added by Custom.
  ;; If you edit it by hand, you could mess it up, so be careful.
@@ -86,6 +86,13 @@
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Jedi Python mode;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 (add-hook 'python-mode-hook 'jedi:setup)
 (setq jedi:complete-on-dot t)
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Elpy Python mode;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+(elpy-enable)
+;;(setq elpy-modules nil)
+;;(setq python-python-command "/usr/local/Cellar/python/3.7.0/bin/python3")
+(setq python-shell-interpreter "/usr/local/Cellar/python/3.7.0/bin/python3")
+(setq python-shell-completion-native-enable nil)
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Flycheck mode;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 
