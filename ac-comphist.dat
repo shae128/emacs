@@ -1,992 +1,996 @@
-((("import" .
-   [0 0 0 0 1 0])
-  ("list" .
-   [0 0 0 3])
-  ("sum" .
-   [0 0 2])
-  ("jedi:setup" .
-   [1 0 0 0 0 0 0 0 0 0])
-  ("print" .
-   [0 0 0 6 1])
-  ("tset" .
-   [1 0 0 0])
-  ("def" .
-   [0 0 2])
-  ("from" .
-   [0 0 0 1])
-  ("textarea" .
-   [0 0 0 0 0 0 1 0])
-  ("content" .
-   [0 0 0 0 0 0 1])
-  ("important" .
-   [0 0 0 0 2 0 0 0 0])
-  ("font-weight" .
-   [0 0 0 0 1 0 0 0 0 0 0])
-  ("sans-serif" .
-   [1 0 0 0 0 0 0 0 0 0])
-  ("font-family" .
-   [0 0 0 0 0 0 0 1 0 0 0])
-  ("forn" .
-   [0 0 1 0])
-  ("phpinfo" .
-   [0 0 0 2 0 0 0])
-  ("alias" .
-   [0 0 1 0 5])
-  ("setTimeout" .
-   [0 0 0 0 0 1 0 0 0 0])
-  ("new_position" .
-   [0 0 0 0 1 0 0 0 0 0 0 0])
-  ("highlighters" .
-   [0 0 1 0 0 0 0 0 0 0 0 0])
-  ("tempTeiName" .
-   [0 0 0 0 0 0 1 0 0 0 0])
-  ("tempClass" .
-   [0 0 0 0 0 3 1 0 0])
-  ("alphabeticalOrderMaker" .
-   [0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("alphabetSortedPlace" .
-   [0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("alphabetSortedPerson" .
-   [0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("alphabetSortedDynastic" .
-   [0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("alphabet" .
-   [0 0 0 0 1 0 0 0])
-  ("numericalOrderMaker" .
-   [0 0 0 2 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("alphabetical" .
-   [1 0 0 0 0 0 0 0 0 0 0 3])
-  ("numerical" .
-   [0 0 0 0 3 0 0 0 0])
-  ("numSortedDynastic" .
-   [0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0])
-  ("numSortedPerson" .
-   [0 0 0 1 0 0 0 0 0 0 0 0 0 0 0])
-  ("personMenu" .
-   [1 0 0 0 0 0 0 0 0 0])
-  ("listMaker" .
-   [0 0 0 0 0 2 1 0 0])
-  ("removeAllChilds" .
-   [0 0 0 0 2 0 0 1 0 0 0 0 0 0 0])
-  ("textStr" .
-   [0 0 0 0 0 1 0])
-  ("num" .
-   [1 0 0])
-  ("elementID" .
-   [0 0 0 0 0 0 0 0 1])
-  ("node" .
-   [1 0 0 0])
-  ("ulElement" .
-   [0 0 1 0 0 0 0 0 0])
-  ("textNode" .
-   [0 0 0 0 1 0 0 0])
-  ("liElement" .
-   [0 0 1 0 1 0 0 0 0])
-  ("ulID" .
-   [0 0 0 1])
-  ("overflow" .
-   [0 0 0 1 0 0 0 0])
-  ("wrapper" .
-   [0 0 0 0 0 0 1])
-  ("wrapperLeft" .
-   [0 0 0 0 0 0 0 0 1 0 0])
-  ("export" .
-   [0 0 1 0 0 0])
-  ("shoppingList" .
-   [0 0 0 3 0 0 0 0 0 0 0 0])
-  ("sizeOf" .
-   [0 0 0 1 0 0])
-  ("PTS" .
-   [1 0 0])
-  ("startConnection" .
-   [0 0 0 1 1 0 0 0 0 0 0 0 0 0 0])
-  ("connectionTest" .
-   [0 0 0 2 0 0 0 0 0 0 0 0 0 0])
-  ("the" .
-   [1 0 0])
-  ("log.txt" .
-   [0 0 0 2 1 0 0])
-  ("now" .
-   [1 0 0])
-  ("Final" .
-   [1 0 0 0 0])
-  ("PASS" .
-   [3 0 0 0])
-  ("USER" .
-   [3 0 0 0])
-  ("wrapperDestraTipi" .
-   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 0 0])
-  ("wrapperSinistraBrand" .
-   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0])
-  ("fraseDiTestDrive" .
-   [0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0])
-  ("toTestDrive" .
-   [0 0 0 0 1 0 0 0 0 0 0])
-  ("toShowRoom" .
-   [0 0 0 0 0 0 1 0 0 0])
-  ("logoHeader" .
-   [0 0 0 0 0 1 0 0 0 1])
-  ("screen" .
+((("append" .
    [0 0 0 0 0 1])
-  ("media" .
-   [1 0 0 0 0])
-  ("nodoHomeBG" .
-   [0 0 0 0 0 0 0 1 1 0])
-  ("lastElementChild" .
-   [0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("replaceChild" .
-   [0 0 0 1 0 0 0 0 0 0 0 0])
-  ("nodoTagHead" .
-   [0 0 0 0 0 1 2 0 0 0 1])
-  ("tuttoHead" .
-   [0 0 0 0 1 0 0 0 0])
-  ("regoleStile" .
-   [0 0 0 0 2 0 0 0 0 0 0])
-  ("nodoElementoStyle" .
-   [0 0 0 0 0 0 0 0 0 0 0 0 0 2 1 1 2])
-  ("stileFinale" .
-   [0 0 0 3 0 0 0 0 0 0 0])
-  ("sinistraFinale" .
-   [0 0 0 0 1 0 0 0 0 0 0 0 0 0])
-  ("larghezzaFinale" .
-   [0 0 0 0 0 1 0 0 0 0 0 0 0 0 0])
-  ("paddingContenuti" .
-   [0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("larghezzaLocal" .
-   [0 0 0 1 0 0 0 0 0 0 1 0 0 1])
-  ("Larghezza" .
-   [1 0 0 0 0 0 0 0 0])
-  ("gestoreLarghezzaContenuti" .
-   [0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("resize" .
-   [0 0 0 0 1 0])
-  ("foto" .
-   [0 0 2 1])
-  ("font-" .
-   [0 0 0 0 1])
-  ("margin-bottom" .
-   [0 0 1 0 0 0 0 0 0 2 0 0 0])
-  ("imgMacchine" .
-   [0 0 0 0 1 0 0 0 0 0 0])
-  ("right" .
-   [0 0 2 0 2])
-  ("float" .
-   [0 0 1 1 2])
-  ("mobile" .
-   [0 0 0 0 0 2])
-  ("gestoreMobile" .
-   [0 0 0 0 0 0 0 0 1 0 0 0 0])
-  ("onblur" .
+  ("apply" .
+   [0 0 0 1 0])
+  ("super" .
+   [0 0 1 0 1])
+  ("mysqli_connect" .
+   [0 0 0 0 0 0 0 0 1 1 0 0 0 0])
+  ("switch" .
    [0 0 0 1 0 0])
-  ("nodoMobileUtente" .
-   [0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0])
-  ("gestoreEmpty" .
-   [0 0 0 0 0 0 0 0 0 2 0 0])
-  ("nodoCognomeUtente" .
-   [0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0])
-  ("gestoreModulo" .
-   [0 0 0 0 0 0 0 0 0 1 0 0 0])
-  ("nomeImmagineInfo" .
-   [0 0 0 0 2 0 0 0 0 0 0 0 0 3 0 1])
-  ("indrizioImmagineInfo" .
-   [0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 2 0 0])
-  ("infoIndice" .
-   [0 0 0 0 0 1 0 0 0 2])
-  ("trovaIndice" .
-   [0 0 0 1 0 0 0 0 0 0 0])
-  ("pointer" .
-   [0 0 0 2 1 0 0])
-  ("cursor" .
-   [0 0 2 1 0 0])
-  ("arrowIndietro" .
-   [0 0 0 0 0 0 0 1 0 0 0 0 0])
-  ("arrowAvanti" .
-   [0 0 0 0 0 0 1 0 0 0 0])
-  ("li" .
-   [5 0])
-  ("span1" .
-   [1 0 0 0 0])
-  ("nodoElementoUl" .
-   [0 0 0 0 0 0 0 0 0 0 0 0 0 2])
-  ("nodoElementoSpan2" .
-   [2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("nodoMenu" .
-   [1 0 0 0 0 0 0 1])
-  ("nodoElementoSpan1" .
-   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
-  ("nodoElementoLi" .
-   [0 0 0 0 0 0 0 1 0 0 0 0 0 6])
-  ("nodoElementoSpanYear" .
-   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0])
-  ("nodoElementoSpanClass" .
-   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0])
-  ("nodoElementoSpanModel" .
-   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0])
-  ("nodoElementoLiPrice" .
-   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0])
-  ("nodoElementoLiYear" .
-   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0])
-  ("nodoElementoLiClass" .
-   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0])
-  ("nodoElementoLiModel" .
-   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0])
-  ("nodoElementoSpanBrand" .
-   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0])
-  ("nodoElementoLiBrand" .
-   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0])
-  ("nodoElementoLink" .
-   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0])
-  ("nodoElementoSpan" .
-   [0 0 0 0 0 0 0 0 0 0 0 0 0 3 0 4])
-  ("nodoWrapper" .
-   [0 0 0 0 0 0 0 0 0 0 1])
-  ("nodoWrapperFotoInfo" .
-   [0 0 0 0 0 0 0 1 0 0 0 0 4 0 0 0 0 0 0])
-  ("cons" .
-   [0 0 0 4])
-  ("i" .
-   [1])
-  ("macchine" .
-   [0 0 0 0 5 0 0 4])
-  ("indice" .
-   [0 0 0 0 2 2])
-  ("nomeDiFile" .
-   [0 0 0 0 0 1 0 0 0 0])
-  ("trovato" .
-   [1 0 0 1 0 0 0])
-  ("identicatore" .
-   [0 0 0 0 1 0 0 0 0 0 0 0])
-  ("nomeImmagine" .
-   [0 0 0 0 0 2 1 0 0 0 0 1])
-  ("firstElementChild" .
-   [0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0])
-  ("Fiat" .
-   [1 0 0 0])
-  ("indrizioImmagine" .
-   [0 0 0 0 1 0 0 0 0 1 0 0 0 0 0 1])
-  ("creaInfo" .
-   [0 0 0 0 0 1 0 0])
-  ("Constanti" .
-   [1 0 0 1 0 0 0 0 1])
-  ("a" .
-   [2])
-  ("cfcfcf" .
-   [2 0 0 0 0 0])
-  ("listaInfo" .
-   [0 0 0 0 0 0 0 0 1])
-  ("tipiID" .
-   [0 0 1 0 0 0])
-  ("tipiList" .
-   [0 0 3 5 7 0 0 0])
-  ("element" .
-   [0 0 0 0 0 0 1])
-  ("gestoreFiltroTipo" .
-   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0])
-  ("tipi" .
-   [27 0 0 0])
-  ("remove" .
-   [1 0 1 0 1 3])
-  ("class" .
-   [0 0 0 1 0])
-  ("length" .
-   [0 0 1 7 1 5])
-  ("add" .
-   [3 0 1])
-  ("classList" .
-   [0 0 0 1 0 0 2 0 1])
-  ("className" .
-   [0 0 0 1 0 0 1 0 0])
-  ("marca" .
-   [1 0 0 0 0])
-  ("nodoElementoArticle" .
-   [0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0])
-  ("brandList" .
-   [0 0 0 0 0 0 6 1 0])
-  ("brandID" .
-   [0 0 0 0 0 0 2])
-  ("getElementsByClassName" .
-   [0 0 1 2 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("B" .
-   [1])
-  ("id" .
-   [6 0])
-  ("elementoCorrente" .
-   [0 0 0 2 0 0 0 0 1 1 0 0 0 0 0 1])
-  ("gestoreApriMenu" .
-   [0 0 0 0 1 0 0 0 0 0 0 0 0 0 0])
-  ("catch" .
-   [2 0 0 0 0])
-  ("try" .
-   [2 0 0])
-  ("gestoreFiltroBrand" .
-   [0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0])
-  ("gestor" .
-   [0 0 0 0 0 1])
-  ("selezione" .
-   [0 0 0 1 2 0 0 0 0])
-  ("brands" .
-   [2 0 0 1 0 0])
-  ("BRAND" .
-   [1 0 0 0 0])
-  ("nodoElementoDiv" .
-   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 2])
-  ("indrizioDiFile" .
-   [0 0 0 2 1 1 0 0 0 0 0 0 0 0])
-  ("nodoElementoImg" .
-   [0 0 0 0 0 0 0 0 0 0 0 0 0 12 1])
-  ("createElement" .
-   [0 0 0 0 2 0 0 1 0 0 0 0 7])
-  ("nodoElemento" .
-   [0 0 0 0 0 0 0 0 0 0 0 8])
-  ("brand" .
-   [2 0 0 0 3])
-  ("overflow-x" .
-   [0 0 0 0 0 1 0 0 1 0])
-  ("overlay" .
-   [0 0 0 0 1 1 1])
-  ("altaY" .
-   [2 0 0 0 0])
-  ("log" .
-   [13 0 3])
-  ("console" .
-   [0 0 0 3 0 4 10])
-  ("nodoHeader" .
-   [0 0 0 0 0 0 1 0 0 1])
-  ("text-align" .
-   [0 0 0 1 0 0 1 0 0 8])
-  ("showRoom" .
-   [1 0 0 0 0 0 0 0])
-  ("nodoLogo" .
-   [0 0 0 0 0 3 0 0])
-  ("verticale" .
-   [0 0 0 1 0 0 0 0 0])
-  ("scroll123" .
-   [0 0 0 0 0 0 0 1 0])
-  ("altezaDiMacchina" .
-   [0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("scrollY" .
-   [0 0 0 3 0 0 1])
-  ("offsetTop" .
-   [0 0 0 1 0 0 0 0 0])
-  ("misuraBlur" .
-   [0 0 1 0 1 0 0 0 0 0])
-  ("alteza" .
-   [0 0 0 0 4 1])
-  ("nodoMacchina" .
-   [0 0 0 0 0 2 0 0 0 0 0 3])
-  ("gestore" .
-   [0 0 0 0 0 0 2])
-  ("numeroDiOpacity" .
-   [0 0 0 0 1 0 0 2 0 0 0 0 0 0 0])
-  ("scroll" .
-   [0 0 0 1 0 5])
-  ("bgBG" .
-   [0 0 2 0])
-  ("blur" .
-   [1 0 0 0])
-  ("mesiItaliani" .
-   [0 0 0 0 0 1 0 0 0 0 0 0])
-  ("elemento" .
-   [0 0 0 0 1 0 0 0])
-  ("msg" .
-   [4 0 1])
-  ("creaLista" .
-   [1 0 0 0 0 0 2 0 0])
-  ("datoP" .
-   [4 0 0 1 0])
-  ("giorni" .
-   [0 0 0 3 0 0])
-  ("opzioni" .
-   [0 0 1 0 0 0 2])
-  ("tipiDiViaggio" .
-   [0 0 0 0 1 0 0 0 0 0 0 0 0])
-  ("creaSelect" .
-   [0 0 0 0 0 0 1 0 0 0])
-  ("elementi" .
-   [0 0 0 1 1 0 0 0])
-  ("err" .
-   [5 0 0])
-  ("nodoLista" .
-   [1 0 0 0 0 0 2 1 0])
-  ("gestoreLoad" .
-   [0 0 0 0 0 0 0 0 0 0 1])
-  ("nodoImposta" .
-   [0 0 0 0 0 0 1 0 0 0 0])
-  ("nodoTipo" .
-   [0 0 0 0 0 0 1 3])
-  ("nodoMinutiP" .
-   [0 0 0 0 0 0 0 0 0 0 1])
-  ("nodoAnnoP" .
-   [0 0 0 0 0 0 0 1 0])
-  ("nodoMeseP" .
-   [1 0 0 0 0 0 0 0 0])
-  ("nodoMeseA" .
-   [0 0 0 0 0 0 0 0 1])
-  ("nodoGiorno" .
-   [0 0 0 0 0 0 0 0 0 1])
-  ("nodoOraA" .
-   [0 0 0 0 0 0 0 1])
-  ("minutiP" .
-   [0 0 0 1 0 0 0])
-  ("oraP" .
-   [0 0 0 1])
-  ("tipo" .
-   [5 0 0 0])
-  ("annoP" .
-   [0 0 0 1 0])
-  ("meseP" .
-   [0 0 0 0 1])
-  ("giornoP" .
-   [0 0 0 0 1 0 0])
-  ("tris" .
-   [4 0 0 0])
-  ("nth-child" .
-   [0 0 2 4 0 0 0 0 0])
-  ("table" .
-   [0 0 1 0 0])
-  ("matrice" .
-   [0 0 0 0 0 1 0])
-  ("display" .
-   [0 0 0 6 1 0 5])
-  ("risulta" .
-   [0 0 0 0 1 0 0])
-  ("Verifica" .
-   [0 0 0 0 2 0 0 0])
-  ("inserire" .
-   [0 0 0 1 1 0 0 0])
-  ("ease" .
-   [1 0 0 0])
-  ("transition" .
-   [0 0 0 1 1 0 0 0 0 0])
-  ("font-size" .
-   [0 0 0 1 0 1 0 10 5])
-  ("border-radius" .
-   [0 0 0 0 0 0 0 1 0 0 0 0 1])
-  ("solid" .
-   [0 0 1 1 0])
-  ("margin-right" .
-   [0 0 0 0 0 0 0 0 0 1 0 0])
-  ("hei" .
-   [2 0 0])
-  ("width" .
-   [0 0 5 5 20])
-  ("margin-left" .
-   [0 0 1 0 0 1 0 0 0 1 0])
-  ("background-image" .
-   [0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 0])
-  ("no-repeat" .
-   [0 0 0 3 0 1 0 0 0])
-  ("background-repeat" .
-   [0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0])
-  ("cover" .
-   [5 0 1 4 8])
-  ("background-size" .
-   [0 0 0 0 1 0 0 0 0 0 0 0 1 1 0])
-  ("relative" .
-   [0 0 2 3 4 1 0 3])
-  ("position" .
-   [0 0 5 8 1 0 0 3])
-  ("backG" .
-   [1 0 0 0 0])
-  ("auto" .
-   [0 0 2 5])
-  ("padding" .
-   [1 0 0 0 3 5 12])
-  ("margin" .
-   [0 0 1 3 0 19])
-  ("background-color" .
-   [0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0])
-  ("left" .
-   [0 0 1 4])
-  ("tempR" .
-   [0 0 1 2 6])
-  ("Number" .
-   [0 0 0 1 2 2])
-  ("Numero" .
-   [0 0 0 1 0 1])
-  ("testo" .
-   [0 0 0 1 2])
-  ("msgRicarica" .
-   [0 0 0 1 0 0 0 0 0 0 0])
-  ("appendChild" .
-   [1 0 0 4 5 0 1 0 1 0 3])
-  ("createTextNode" .
-   [0 0 0 1 2 0 0 0 0 0 0 0 0 1])
-  ("nodoMsgRicarica" .
-   [0 0 0 0 0 0 0 2 1 0 0 0 0 0 0])
-  ("nodoMsgInserire" .
-   [0 0 0 0 0 0 1 2 0 0 0 0 0 0 0])
-  ("cancellaMessaggio" .
-   [1 0 0 5 0 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("nodoMessaggioEsaurire" .
-   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 4 0 0 0 0 0 0])
-  ("getElementById" .
-   [0 0 0 7 0 1 0 0 0 0 0 1 0 15])
-  ("document" .
-   [0 0 0 12 32 2 1 1])
-  ("nodoMessaggio" .
-   [0 0 0 0 0 0 0 0 0 0 0 0 1])
-  ("valore" .
-   [1 0 0 0 8 0])
-  ("nodoMessaggioNumeroCaffe" .
-   [0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 4 0 0 0 0 0 0 0 0])
-  ("nodoMessaggioCodice" .
-   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 2 1])
-  ("codice" .
-   [1 0 1 1 2 1])
-  ("numeroCaffe" .
-   [0 0 0 1 2 0 0 0 0 0 5])
-  ("value" .
-   [6 0 0 3 3])
-  ("nodoCapsule" .
-   [0 0 0 0 0 0 2 0 0 0 0])
-  ("verifica_negativo" .
-   [0 0 0 0 0 0 0 0 0 0 0 3 0 0 0 0 0])
-  ("verifica_numero" .
-   [0 0 0 0 0 0 0 0 0 0 0 3 0 0 1])
-  ("capsule" .
-   [0 0 0 2 0 0 6])
-  ("verifica_vuoto" .
-   [0 0 1 1 0 0 0 0 0 0 1 0 0 1])
-  ("msgTesto" .
-   [0 0 4 2 0 1 0 3])
-  ("non" .
-   [1 0 0])
-  ("isNaN" .
-   [0 0 1 1 1])
-  ("nodoRicarica" .
-   [0 0 0 0 1 0 0 0 0 0 0 0])
-  ("function" .
-   [0 0 0 8 17 0 0 5])
-  ("nodoMessaggioCapsule" .
-   [0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 0 0 0 1])
-  ("nodoRisulta" .
-   [0 0 0 0 1 0 0 0 0 0 0])
-  ("scriviMessaggio" .
-   [0 0 0 1 5 0 0 0 0 0 0 0 0 0 4])
-  ("nodo" .
-   [18 0 0 0])
-  ("messaggio" .
-   [0 0 0 0 1 1 0 0 3])
-  ("Messaggi" .
-   [0 0 0 0 0 0 0 3])
-  ("Variabili" .
+  ("while" .
+   [0 0 0 3 0])
+  ("awsRedhat" .
    [0 0 0 0 0 1 0 0 0])
-  ("var" .
-   [0 0 1])
-  ("Variabile" .
-   [0 0 0 0 1 1 0 0 0])
-  ("msg1" .
-   [1 0 0 0])
-  ("variabile" .
-   [0 0 0 0 5 1 0 0 4])
-  ("msg2" .
-   [1 0 0 0])
-  ("Negativo" .
-   [0 0 0 1 0 0 0 0])
-  ("VOUTO" .
-   [0 0 0 1 0])
-  ("negativo" .
-   [0 0 0 0 1 0 0 0])
-  ("messaggioVouto" .
-   [0 0 0 0 0 0 0 0 0 0 0 0 0 1])
-  ("messaggioNegativo" .
-   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
-  ("nodoTesto" .
-   [0 0 0 0 0 0 1 1 3])
-  ("nodoTesto5" .
-   [1 0 0 0 0 0 0 0 0 0])
-  ("verifica" .
-   [0 0 0 0 1 0 0 1])
-  ("codiceVerifica" .
-   [0 0 0 0 1 0 0 0 2 1 0 0 0 0])
-  ("nodoCodiceVerifica" .
-   [0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0])
-  ("nodoMessaggioVerifica" .
-   [0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("nodoMessaggioCodiceVerifica" .
-   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("return" .
-   [0 0 0 4 5 4])
-  ("true" .
-   [5 0 0 0])
-  ("nodoNumeroCaffe" .
-   [0 0 0 0 0 0 2 0 0 0 0 0 0 0 0])
-  ("else" .
-   [0 0 0 1])
-  ("alert" .
-   [0 0 1 3 2])
-  ("border-bottom" .
-   [0 0 0 1 0 0 0 0 0 0 0 0 0])
-  ("back" .
-   [1 0 0 0])
-  ("height" .
-   [0 0 1 9 0 3])
-  ("inline-block" .
-   [0 0 0 0 2 0 0 0 0 0 0 0])
-  ("Array" .
-   [0 0 1 7 6])
-  ("nodoAA" .
-   [2 0 0 0 0 0])
-  ("nodoAB" .
-   [4 0 0 0 0 0])
-  ("nodoAC" .
-   [4 0 0 0 0 0])
-  ("nodoBA" .
-   [2 0 0 0 0 0])
-  ("nodoBB" .
+  ("awsUbuntu" .
+   [0 0 0 1 0 0 0 0 0])
+  ("tst" .
+   [1 0 0])
+  ("n+4" .
+   [1 0 0])
+  ("last-child" .
+   [0 0 0 1 0 0 0 0 1 0])
+  ("highlight" .
+   [0 0 2 0 0 0 0 0 0])
+  ("opener" .
    [1 0 0 0 0 0])
-  ("nodoBC" .
+  ("insertSpaces" .
+   [0 0 0 0 1 0 0 0 0 0 0 0])
+  ("arr" .
+   [1 0 0])
+  ("sortedPlace" .
+   [0 0 1 0 0 0 0 0 0 0 0])
+  ("tempArray" .
+   [0 0 0 0 1 7 0 0 3])
+  ("sorted" .
+   [1 0 0 0 0 0])
+  ("numSortedPlace" .
+   [0 0 2 4 1 0 0 0 0 0 0 0 0 1])
+  ("matrix" .
+   [0 0 4 5 1 3])
+  ("tempStr" .
+   [0 0 0 0 0 2 0])
+  ("tempNum" .
+   [1 0 0 0 0 1 0])
+  ("uDDD" .
+   [0 0 2 0])
+  ("uSSS" .
+   [0 0 2 0])
+  ("bubbleSortMatrix" .
+   [0 0 9 4 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("strAppeared" .
+   [0 0 0 0 0 1 0 0 0 0 0])
+  ("str" .
+   [3 0 1])
+  ("liNode" .
+   [0 0 0 0 0 1])
+  ("unSortedPlace" .
+   [0 0 1 1 0 0 0 0 0 0 0 1 1])
+  ("unSortedPerson" .
+   [0 0 0 1 0 0 0 0 0 0 0 1 0 0])
+  ("ulReader" .
+   [0 0 0 0 3 0 0 0])
+  ("unSortedDynastic" .
+   [0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0])
+  ("unSorted" .
+   [0 0 0 2 0 0 0 4])
+  ("ulNode" .
+   [0 0 0 3 0 0])
+  ("hr" .
+   [1 0])
+  ("Menu" .
+   [1 0 0 0])
+  ("none" .
+   [0 0 0 1])
+  ("frontDesc" .
+   [0 0 0 1 0 0 0 0 0])
+  ("justify" .
+   [0 0 1 0 0 0 0])
+  ("body" .
+   [1 0 0 0])
+  ("AutoBazar" .
+   [0 0 0 1 0 0 0 0 0])
+  ("Ambriola" .
+   [0 0 2 0 0 0 0 0])
+  ("helm" .
+   [2 0 0 0])
+  ("div" .
+   [1 0 0])
+  ("testConnection" .
+   [0 0 1 0 0 0 2 0 0 0 0 0 0 0])
+  ("unipiPass" .
+   [0 0 0 0 0 0 2 0 0])
+  ("unipiUser" .
+   [0 0 0 0 0 0 2 0 0])
+  ("Unipi" .
+   [0 0 0 1 0])
+  ("Content" .
+   [0 0 0 2 0 0 0])
+  ("cmd" .
+   [2 0 0])
+  ("clientWidth" .
+   [0 0 0 0 0 0 0 1 0 0 0])
+  ("aspectRation" .
+   [0 0 1 0 2 0 0 0 0 0 0 0])
+  ("larghezzaMappa" .
+   [0 0 0 0 0 0 0 0 0 0 2 0 0 0])
+  ("bersaglioX" .
+   [1 0 0 0 0 0 0 0 0 0])
+  ("bersaglioY" .
+   [0 0 0 1 0 0 0 0 0 0])
+  ("Bersaglio" .
+   [1 0 0 0 0 0 0 0 0])
+  ("riferimentoX" .
+   [0 0 0 1 0 0 0 0 0 0 0 0])
+  ("correggiScala" .
+   [0 0 0 0 2 0 0 0 0 0 0 0 0])
+  ("larghezza" .
+   [0 0 0 4 0 1 0 0 0])
+  ("scala" .
+   [6 0 0 3 3])
+  ("context" .
+   [0 0 0 1 0 2 0])
+  ("testCanvas" .
+   [0 0 0 1 0 0 0 0 0 0])
+  ("canvas" .
+   [0 0 0 0 0 1])
+  ("nodoFogMappaImg" .
+   [0 0 0 0 0 0 2 0 0 0 0 0 0 0 1])
+  ("event" .
+   [2 0 0 0 0])
+  ("Footer" .
+   [0 0 0 0 1 0])
+  ("wrapperListaInfo" .
+   [0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("padding-top" .
+   [0 0 0 0 0 0 0 0 0 0 1])
+  ("wrapperSinistraSelezione" .
+   [0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("nomeDiGiorni" .
+   [0 0 0 0 0 1 0 0 0 0 0 0])
+  ("nodoMsgPrenota" .
+   [0 0 0 0 0 1 0 0 0 0 0 0 0 0])
+  ("attivaCalendario" .
+   [0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0])
+  ("gestoreCalendario" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2])
+  ("ilGiorno" .
+   [0 0 0 0 0 1 0 0])
+  ("tuttoGiorni" .
+   [0 0 1 0 0 0 1 0 1 0 0])
+  ("numeroGiorni" .
+   [0 0 0 0 0 1 0 0 0 0 0 0])
+  ("randomNum" .
+   [0 0 0 0 1 0 0 0 1])
+  ("nodoGiorni" .
+   [0 0 0 0 0 1 0 0 0 0])
+  ("moji" .
+   [1 0 0 0])
+  ("conta" .
+   [1 0 0 1 0])
+  ("logoInfouma" .
+   [0 0 0 0 0 0 1 0 0 0 0])
+  ("setteGiorni" .
+   [0 0 0 0 0 1 0 0 0 0 0])
+  ("certificato" .
+   [0 0 0 0 0 1 0 0 0 0 0])
+  ("wrapperCentroAbout" .
+   [0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0])
+  ("fraseDiShowRoom" .
+   [0 0 0 0 0 0 0 0 0 0 5 0 0 0 0])
+  ("logoShowRoom" .
+   [0 0 0 0 0 0 0 5 0 0 0 0])
+  ("font" .
+   [0 0 0 1])
+  ("sideMenu" .
+   [0 0 2 0 0 1 1 0])
+  ("width20p" .
+   [0 0 0 0 0 0 1 0])
+  ("wrapperContenutiAbout" .
+   [0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("text-decoration" .
+   [0 0 0 1 0 0 0 1 0 0 0 0 0 0 0])
+  ("italic" .
+   [0 0 0 3 0 0])
+  ("font-style" .
+   [0 0 0 0 0 1 1 2 1 1])
+  ("link" .
+   [0 0 0 1])
+  ("letter-spacing" .
+   [0 0 0 0 1 1 0 0 0 0 1 0 0 0])
+  ("line-height" .
+   [0 0 0 0 0 2 1 0 0 0 0])
+  ("translateY" .
+   [0 0 0 1 0 0 0 0 0 0])
+  ("white" .
+   [0 0 0 1 1])
+  ("Box" .
+   [2 0 0])
+  ("SI" .
+   [1 0])
+  ("nodoArrowAvanti" .
+   [0 0 0 1 1 0 0 0 0 0 0 0 0 0 0])
+  ("tutto" .
+   [0 0 0 0 3])
+  ("color" .
+   [1 0 0 0 2])
+  ("text-shadow" .
+   [0 0 0 0 0 0 0 0 1 0 0])
+  ("center" .
+   [0 0 2 1 0 1])
+  ("contain" .
+   [0 0 0 3 0 0 0])
+  ("semaforo" .
+   [0 0 1 0 0 0 1 1])
+  ("Sempre" .
+   [1 0 0 0 0 1])
+  ("z-index" .
+   [0 0 0 0 1 0 0])
+  ("url" .
+   [2 0 0])
+  ("gestoreZero" .
+   [0 0 0 0 0 0 0 0 1 0 0])
+  ("onload" .
+   [0 0 2 0 0 1])
+  ("test" .
+   [2 0 1 1])
+  ("numero" .
+   [2 0 0 2 2 2])
+  ("pageYOffset" .
+   [0 1 0 0 1 0 0 0 0 0 1])
+  ("window" .
+   [0 0 3 4 1 0])
+  ("nodoBlur" .
+   [0 0 0 0 0 1 0 0])
+  ("fixed" .
+   [0 0 3 2 1])
+  ("absolute" .
+   [0 0 5 2 4 0 0 0])
+  ("creaList" .
+   [0 0 0 0 0 1 0 0])
+  ("creatElement" .
+   [0 0 0 0 0 1 0 0 0 0 0 0])
+  ("figlio" .
+   [1 0 0 2 0 0])
+  ("parallax" .
+   [1 0 0 0 0 0 0 0])
+  ("span" .
+   [3 0 0 2])
+  ("resetScores" .
+   [0 0 0 0 0 0 1 0 0 0 0])
+  ("input" .
+   [3 0 0 0 0])
+  ("scores" .
+   [2 0 0 0 0 0])
+  ("game" .
+   [5 0 1 0])
+  ("max-width" .
+   [0 0 0 0 1 0 1 0 1])
+  ("img2" .
+   [2 0 0 0])
+  ("img" .
+   [9 0 0])
+  ("trisInverted" .
+   [0 0 0 1 0 0 0 0 0 0 0 0])
+  ("trisDiagonal" .
+   [0 0 0 0 0 0 0 1 0 0 0 0])
+  ("trisColumn" .
+   [0 0 0 0 0 2 0 0 0 0])
+  ("trisRow" .
+   [0 0 0 0 1 1 0])
+  ("tempID" .
+   [0 0 0 0 1 0])
+  ("cellStatus" .
+   [0 0 0 0 0 1 0 0 0 0])
+  ("getAttribute" .
+   [0 0 0 4 3 0 0 0 0 0 0 1])
+  ("cell" .
+   [1 0 0 0])
+  ("status" .
+   [0 0 0 0 0 1])
+  ("statusbg" .
+   [3 0 0 0 0 0 0 0])
+  ("setAttribute" .
+   [0 0 0 11 0 0 0 0 0 0 0 3])
+  ("corrent" .
+   [0 0 0 0 0 0 1])
+  ("temp" .
+   [6 0 0 1])
+  ("childNodes" .
+   [0 0 0 1 1 1 0 0 0 0])
+  ("img1" .
+   [3 0 0 0])
+  ("boxOut" .
+   [0 0 0 0 0 2])
+  ("boxOver" .
+   [1 0 0 1 0 0 0])
+  ("clickManager" .
+   [0 0 0 0 0 1 0 0 0 0 0 0])
+  ("onclick" .
+   [0 0 1 0 0 2 0])
+  ("correntTD" .
+   [1 0 0 0 1 1 0 0 5])
+  ("correntID" .
+   [0 0 0 0 1 0 0 0 0])
+  ("String" .
+   [0 0 0 4 5 0])
+  ("columnNumber" .
+   [0 0 4 0 0 0 0 0 0 0 0 0])
+  ("rowNumber" .
+   [0 0 0 1 0 0 0 0 2])
+  ("const" .
+   [1 0 0 0 0])
+  ("loadManager" .
+   [0 0 0 1 2 0 0 0 0 0 0])
+  ("resetNode" .
+   [1 0 0 0 0 0 0 0 1])
+  ("ttttt" .
+   [0 0 1 1 0])
+  ("colonna" .
+   [0 0 0 0 0 0 1])
+  ("riga" .
+   [1 0 0 0])
+  ("opacity" .
+   [2 0 2 3 0 1 0])
+  ("border" .
+   [1 0 0 0 0 3])
+  ("transform" .
+   [0 0 0 2 1 0 0 0 0])
+  ("box" .
+   [1 0 0])
+  ("shadow" .
+   [0 0 3 0 0 0])
+  ("trisColonna" .
+   [0 0 0 0 0 1 1 0 0 0 0])
+  ("background" .
+   [0 0 1 0 5 0 0 0 0 0])
+  ("style" .
+   [3 0 1 11 1])
+  ("trisRiga" .
+   [0 0 0 0 0 1 1 0])
+  ("false" .
+   [4 0 1 1 1])
+  ("case" .
+   [0 0 0 2])
+  ("break" .
+   [0 0 0 1 5])
+  ("ttt" .
+   [2 0 2])
+  ("idCorrente" .
+   [0 0 2 2 0 0 0 0 0 0])
+  ("nodoCC" .
+   [1 0 0 0 0 0])
+  ("nodoCB" .
    [2 0 0 0 0 0])
   ("nodoCA" .
    [2 0 0 0 0 0])
-  ("nodoCB" .
+  ("nodoBC" .
    [2 0 0 0 0 0])
-  ("nodoCC" .
+  ("nodoBB" .
    [1 0 0 0 0 0])
-  ("idCorrente" .
-   [0 0 2 2 0 0 0 0 0 0])
-  ("ttt" .
-   [2 0 2])
-  ("break" .
-   [0 0 0 1 5])
-  ("case" .
-   [0 0 0 2])
-  ("false" .
-   [4 0 1 1 1])
-  ("trisRiga" .
-   [0 0 0 0 0 1 1 0])
-  ("style" .
-   [3 0 1 11 1])
-  ("background" .
-   [0 0 1 0 5 0 0 0 0 0])
-  ("trisColonna" .
-   [0 0 0 0 0 1 1 0 0 0 0])
-  ("shadow" .
-   [0 0 3 0 0 0])
-  ("box" .
-   [1 0 0])
-  ("transform" .
-   [0 0 0 2 1 0 0 0 0])
-  ("border" .
-   [1 0 0 0 0 3])
-  ("opacity" .
-   [2 0 2 3 0 1 0])
-  ("riga" .
-   [1 0 0 0])
-  ("colonna" .
-   [0 0 0 0 0 0 1])
-  ("ttttt" .
-   [0 0 1 1 0])
-  ("resetNode" .
-   [1 0 0 0 0 0 0 0 1])
-  ("loadManager" .
-   [0 0 0 1 2 0 0 0 0 0 0])
-  ("const" .
-   [1 0 0 0 0])
-  ("rowNumber" .
-   [0 0 0 1 0 0 0 0 2])
-  ("columnNumber" .
-   [0 0 4 0 0 0 0 0 0 0 0 0])
-  ("String" .
-   [0 0 0 4 5 0])
-  ("correntID" .
-   [0 0 0 0 1 0 0 0 0])
-  ("correntTD" .
-   [1 0 0 0 1 1 0 0 5])
-  ("onclick" .
-   [0 0 1 0 0 2 0])
-  ("clickManager" .
-   [0 0 0 0 0 1 0 0 0 0 0 0])
-  ("boxOver" .
-   [1 0 0 1 0 0 0])
-  ("boxOut" .
-   [0 0 0 0 0 2])
-  ("img1" .
-   [3 0 0 0])
-  ("childNodes" .
-   [0 0 0 1 1 1 0 0 0 0])
-  ("temp" .
-   [6 0 0 1])
-  ("corrent" .
-   [0 0 0 0 0 0 1])
-  ("setAttribute" .
-   [0 0 0 11 0 0 0 0 0 0 0 3])
-  ("statusbg" .
-   [3 0 0 0 0 0 0 0])
-  ("status" .
-   [0 0 0 0 0 1])
-  ("cell" .
-   [1 0 0 0])
-  ("getAttribute" .
-   [0 0 0 4 3 0 0 0 0 0 0 1])
-  ("cellStatus" .
-   [0 0 0 0 0 1 0 0 0 0])
-  ("tempID" .
-   [0 0 0 0 1 0])
-  ("trisRow" .
-   [0 0 0 0 1 1 0])
-  ("trisColumn" .
-   [0 0 0 0 0 2 0 0 0 0])
-  ("trisDiagonal" .
-   [0 0 0 0 0 0 0 1 0 0 0 0])
-  ("trisInverted" .
-   [0 0 0 1 0 0 0 0 0 0 0 0])
-  ("img" .
-   [9 0 0])
-  ("img2" .
-   [2 0 0 0])
-  ("max-width" .
-   [0 0 0 0 1 0 1 0 1])
-  ("game" .
-   [5 0 1 0])
-  ("scores" .
+  ("nodoBA" .
    [2 0 0 0 0 0])
-  ("input" .
-   [3 0 0 0 0])
-  ("resetScores" .
-   [0 0 0 0 0 0 1 0 0 0 0])
-  ("span" .
-   [3 0 0 2])
-  ("parallax" .
-   [1 0 0 0 0 0 0 0])
-  ("figlio" .
-   [1 0 0 2 0 0])
-  ("creatElement" .
-   [0 0 0 0 0 1 0 0 0 0 0 0])
-  ("creaList" .
-   [0 0 0 0 0 1 0 0])
-  ("absolute" .
-   [0 0 5 2 4 0 0 0])
-  ("fixed" .
-   [0 0 3 2 1])
-  ("nodoBlur" .
-   [0 0 0 0 0 1 0 0])
-  ("window" .
-   [0 0 3 4 1 0])
-  ("pageYOffset" .
-   [0 1 0 0 1 0 0 0 0 0 1])
-  ("numero" .
-   [2 0 0 2 2 2])
-  ("test" .
-   [2 0 1 1])
-  ("onload" .
-   [0 0 2 0 0 1])
-  ("gestoreZero" .
-   [0 0 0 0 0 0 0 0 1 0 0])
-  ("url" .
-   [2 0 0])
-  ("z-index" .
-   [0 0 0 0 1 0 0])
-  ("Sempre" .
-   [1 0 0 0 0 1])
-  ("semaforo" .
-   [0 0 1 0 0 0 1 1])
-  ("contain" .
-   [0 0 0 3 0 0 0])
-  ("center" .
-   [0 0 2 1 0 1])
-  ("text-shadow" .
-   [0 0 0 0 0 0 0 0 1 0 0])
-  ("color" .
-   [1 0 0 0 2])
-  ("tutto" .
-   [0 0 0 0 3])
-  ("nodoArrowAvanti" .
-   [0 0 0 1 1 0 0 0 0 0 0 0 0 0 0])
-  ("SI" .
-   [1 0])
-  ("Box" .
-   [2 0 0])
-  ("white" .
-   [0 0 0 1 1])
-  ("translateY" .
-   [0 0 0 1 0 0 0 0 0 0])
-  ("line-height" .
-   [0 0 0 0 0 2 1 0 0 0 0])
-  ("letter-spacing" .
-   [0 0 0 0 1 1 0 0 0 0 1 0 0 0])
-  ("link" .
-   [0 0 0 1])
-  ("font-style" .
-   [0 0 0 0 0 1 1 2 1 1])
-  ("italic" .
-   [0 0 0 3 0 0])
-  ("text-decoration" .
-   [0 0 0 1 0 0 0 1 0 0 0 0 0 0 0])
-  ("wrapperContenutiAbout" .
-   [0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("width20p" .
-   [0 0 0 0 0 0 1 0])
-  ("sideMenu" .
-   [0 0 2 0 0 1 1 0])
-  ("font" .
-   [0 0 0 1])
-  ("logoShowRoom" .
-   [0 0 0 0 0 0 0 5 0 0 0 0])
-  ("fraseDiShowRoom" .
-   [0 0 0 0 0 0 0 0 0 0 5 0 0 0 0])
-  ("wrapperCentroAbout" .
-   [0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0])
-  ("certificato" .
-   [0 0 0 0 0 1 0 0 0 0 0])
-  ("setteGiorni" .
-   [0 0 0 0 0 1 0 0 0 0 0])
-  ("logoInfouma" .
-   [0 0 0 0 0 0 1 0 0 0 0])
-  ("conta" .
-   [1 0 0 1 0])
-  ("moji" .
+  ("nodoAC" .
+   [4 0 0 0 0 0])
+  ("nodoAB" .
+   [4 0 0 0 0 0])
+  ("nodoAA" .
+   [2 0 0 0 0 0])
+  ("Array" .
+   [0 0 1 7 6])
+  ("inline-block" .
+   [0 0 0 0 2 0 0 0 0 0 0 0])
+  ("height" .
+   [0 0 1 9 0 3])
+  ("back" .
    [1 0 0 0])
-  ("nodoGiorni" .
-   [0 0 0 0 0 1 0 0 0 0])
-  ("randomNum" .
-   [0 0 0 0 1 0 0 0 1])
-  ("numeroGiorni" .
-   [0 0 0 0 0 1 0 0 0 0 0 0])
-  ("tuttoGiorni" .
-   [0 0 1 0 0 0 1 0 1 0 0])
-  ("ilGiorno" .
-   [0 0 0 0 0 1 0 0])
-  ("gestoreCalendario" .
-   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2])
-  ("attivaCalendario" .
-   [0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0])
-  ("nodoMsgPrenota" .
-   [0 0 0 0 0 1 0 0 0 0 0 0 0 0])
-  ("nomeDiGiorni" .
-   [0 0 0 0 0 1 0 0 0 0 0 0])
-  ("wrapperSinistraSelezione" .
-   [0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("padding-top" .
-   [0 0 0 0 0 0 0 0 0 0 1])
-  ("wrapperListaInfo" .
-   [0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("Footer" .
-   [0 0 0 0 1 0])
-  ("event" .
-   [2 0 0 0 0])
-  ("nodoFogMappaImg" .
-   [0 0 0 0 0 0 2 0 0 0 0 0 0 0 1])
-  ("canvas" .
-   [0 0 0 0 0 1])
-  ("testCanvas" .
-   [0 0 0 1 0 0 0 0 0 0])
-  ("context" .
-   [0 0 0 1 0 2 0])
-  ("scala" .
-   [6 0 0 3 3])
-  ("larghezza" .
-   [0 0 0 4 0 1 0 0 0])
-  ("correggiScala" .
-   [0 0 0 0 2 0 0 0 0 0 0 0 0])
-  ("riferimentoX" .
-   [0 0 0 1 0 0 0 0 0 0 0 0])
-  ("Bersaglio" .
-   [1 0 0 0 0 0 0 0 0])
-  ("bersaglioY" .
-   [0 0 0 1 0 0 0 0 0 0])
-  ("bersaglioX" .
+  ("border-bottom" .
+   [0 0 0 1 0 0 0 0 0 0 0 0 0])
+  ("alert" .
+   [0 0 1 3 2])
+  ("else" .
+   [0 0 0 1])
+  ("nodoNumeroCaffe" .
+   [0 0 0 0 0 0 2 0 0 0 0 0 0 0 0])
+  ("true" .
+   [5 0 0 0])
+  ("return" .
+   [0 0 0 4 5 4])
+  ("nodoMessaggioCodiceVerifica" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("nodoMessaggioVerifica" .
+   [0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("nodoCodiceVerifica" .
+   [0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0])
+  ("codiceVerifica" .
+   [0 0 0 0 1 0 0 0 2 1 0 0 0 0])
+  ("verifica" .
+   [0 0 0 0 1 0 0 1])
+  ("nodoTesto5" .
    [1 0 0 0 0 0 0 0 0 0])
-  ("larghezzaMappa" .
-   [0 0 0 0 0 0 0 0 0 0 2 0 0 0])
-  ("aspectRation" .
-   [0 0 1 0 2 0 0 0 0 0 0 0])
-  ("clientWidth" .
-   [0 0 0 0 0 0 0 1 0 0 0])
-  ("cmd" .
-   [2 0 0])
-  ("Content" .
-   [0 0 0 2 0 0 0])
-  ("Unipi" .
+  ("nodoTesto" .
+   [0 0 0 0 0 0 1 1 3])
+  ("messaggioNegativo" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("messaggioVouto" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("negativo" .
+   [0 0 0 0 1 0 0 0])
+  ("VOUTO" .
    [0 0 0 1 0])
-  ("unipiUser" .
-   [0 0 0 0 0 0 2 0 0])
-  ("unipiPass" .
-   [0 0 0 0 0 0 2 0 0])
-  ("testConnection" .
-   [0 0 1 0 0 0 2 0 0 0 0 0 0 0])
-  ("div" .
-   [1 0 0])
-  ("helm" .
-   [2 0 0 0])
-  ("Ambriola" .
-   [0 0 2 0 0 0 0 0])
-  ("AutoBazar" .
-   [0 0 0 1 0 0 0 0 0])
-  ("body" .
+  ("Negativo" .
+   [0 0 0 1 0 0 0 0])
+  ("msg2" .
    [1 0 0 0])
-  ("justify" .
-   [0 0 1 0 0 0 0])
-  ("frontDesc" .
-   [0 0 0 1 0 0 0 0 0])
-  ("none" .
-   [0 0 0 1])
-  ("Menu" .
+  ("variabile" .
+   [0 0 0 0 5 1 0 0 4])
+  ("msg1" .
    [1 0 0 0])
-  ("hr" .
-   [1 0])
-  ("ulNode" .
-   [0 0 0 3 0 0])
-  ("unSorted" .
-   [0 0 0 2 0 0 0 4])
-  ("unSortedDynastic" .
-   [0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0])
-  ("ulReader" .
-   [0 0 0 0 3 0 0 0])
-  ("unSortedPerson" .
-   [0 0 0 1 0 0 0 0 0 0 0 1 0 0])
-  ("unSortedPlace" .
-   [0 0 1 1 0 0 0 0 0 0 0 1 1])
-  ("liNode" .
-   [0 0 0 0 0 1])
-  ("str" .
-   [3 0 1])
-  ("strAppeared" .
-   [0 0 0 0 0 1 0 0 0 0 0])
-  ("bubbleSortMatrix" .
-   [0 0 9 4 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("uSSS" .
-   [0 0 2 0])
-  ("uDDD" .
-   [0 0 2 0])
-  ("tempNum" .
-   [1 0 0 0 0 1 0])
-  ("tempStr" .
-   [0 0 0 0 0 2 0])
-  ("matrix" .
-   [0 0 4 5 1 3])
-  ("numSortedPlace" .
-   [0 0 2 4 1 0 0 0 0 0 0 0 0 1])
-  ("sorted" .
-   [1 0 0 0 0 0])
-  ("tempArray" .
-   [0 0 0 0 1 7 0 0 3])
-  ("sortedPlace" .
-   [0 0 1 0 0 0 0 0 0 0 0])
-  ("arr" .
-   [1 0 0])
-  ("insertSpaces" .
-   [0 0 0 0 1 0 0 0 0 0 0 0])
-  ("opener" .
-   [1 0 0 0 0 0])
-  ("highlight" .
-   [0 0 2 0 0 0 0 0 0])
-  ("last-child" .
-   [0 0 0 1 0 0 0 0 1 0])
-  ("n+4" .
-   [1 0 0])
-  ("tst" .
-   [1 0 0])
-  ("awsUbuntu" .
-   [0 0 0 1 0 0 0 0 0])
-  ("awsRedhat" .
+  ("Variabile" .
+   [0 0 0 0 1 1 0 0 0])
+  ("var" .
+   [0 0 1])
+  ("Variabili" .
    [0 0 0 0 0 1 0 0 0])
-  ("while" .
-   [0 0 0 3 0])
-  ("switch" .
+  ("Messaggi" .
+   [0 0 0 0 0 0 0 3])
+  ("messaggio" .
+   [0 0 0 0 1 1 0 0 3])
+  ("nodo" .
+   [18 0 0 0])
+  ("scriviMessaggio" .
+   [0 0 0 1 5 0 0 0 0 0 0 0 0 0 4])
+  ("nodoRisulta" .
+   [0 0 0 0 1 0 0 0 0 0 0])
+  ("nodoMessaggioCapsule" .
+   [0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 0 0 0 1])
+  ("function" .
+   [0 0 0 8 17 0 0 5])
+  ("nodoRicarica" .
+   [0 0 0 0 1 0 0 0 0 0 0 0])
+  ("isNaN" .
+   [0 0 1 1 1])
+  ("non" .
+   [1 0 0])
+  ("msgTesto" .
+   [0 0 4 2 0 1 0 3])
+  ("verifica_vuoto" .
+   [0 0 1 1 0 0 0 0 0 0 1 0 0 1])
+  ("capsule" .
+   [0 0 0 2 0 0 6])
+  ("verifica_numero" .
+   [0 0 0 0 0 0 0 0 0 0 0 3 0 0 1])
+  ("verifica_negativo" .
+   [0 0 0 0 0 0 0 0 0 0 0 3 0 0 0 0 0])
+  ("nodoCapsule" .
+   [0 0 0 0 0 0 2 0 0 0 0])
+  ("value" .
+   [6 0 0 3 3])
+  ("numeroCaffe" .
+   [0 0 0 1 2 0 0 0 0 0 5])
+  ("codice" .
+   [1 0 1 1 2 1])
+  ("nodoMessaggioCodice" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 2 1])
+  ("nodoMessaggioNumeroCaffe" .
+   [0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 4 0 0 0 0 0 0 0 0])
+  ("valore" .
+   [1 0 0 0 8 0])
+  ("nodoMessaggio" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("document" .
+   [0 0 0 12 32 2 1 1])
+  ("getElementById" .
+   [0 0 0 7 0 1 0 0 0 0 0 1 0 15])
+  ("nodoMessaggioEsaurire" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 4 0 0 0 0 0 0])
+  ("cancellaMessaggio" .
+   [1 0 0 5 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("nodoMsgInserire" .
+   [0 0 0 0 0 0 1 2 0 0 0 0 0 0 0])
+  ("nodoMsgRicarica" .
+   [0 0 0 0 0 0 0 2 1 0 0 0 0 0 0])
+  ("createTextNode" .
+   [0 0 0 1 2 0 0 0 0 0 0 0 0 1])
+  ("appendChild" .
+   [1 0 0 4 5 0 1 0 1 0 3])
+  ("msgRicarica" .
+   [0 0 0 1 0 0 0 0 0 0 0])
+  ("testo" .
+   [0 0 0 1 2])
+  ("Numero" .
+   [0 0 0 1 0 1])
+  ("Number" .
+   [0 0 0 1 2 2])
+  ("tempR" .
+   [0 0 1 2 6])
+  ("left" .
+   [0 0 1 4])
+  ("background-color" .
+   [0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0])
+  ("margin" .
+   [0 0 1 3 0 19])
+  ("padding" .
+   [1 0 0 0 3 5 12])
+  ("auto" .
+   [0 0 2 5])
+  ("backG" .
+   [1 0 0 0 0])
+  ("position" .
+   [0 0 5 8 1 0 0 3])
+  ("relative" .
+   [0 0 2 3 4 1 0 3])
+  ("background-size" .
+   [0 0 0 0 1 0 0 0 0 0 0 0 1 1 0])
+  ("cover" .
+   [5 0 1 4 8])
+  ("background-repeat" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0])
+  ("no-repeat" .
+   [0 0 0 3 0 1 0 0 0])
+  ("background-image" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 0])
+  ("margin-left" .
+   [0 0 1 0 0 1 0 0 0 1 0])
+  ("width" .
+   [0 0 5 5 20])
+  ("hei" .
+   [2 0 0])
+  ("margin-right" .
+   [0 0 0 0 0 0 0 0 0 1 0 0])
+  ("solid" .
+   [0 0 1 1 0])
+  ("border-radius" .
+   [0 0 0 0 0 0 0 1 0 0 0 0 1])
+  ("font-size" .
+   [0 0 0 1 0 1 0 10 5])
+  ("transition" .
+   [0 0 0 1 1 0 0 0 0 0])
+  ("ease" .
+   [1 0 0 0])
+  ("inserire" .
+   [0 0 0 1 1 0 0 0])
+  ("Verifica" .
+   [0 0 0 0 2 0 0 0])
+  ("risulta" .
+   [0 0 0 0 1 0 0])
+  ("display" .
+   [0 0 0 6 1 0 5])
+  ("matrice" .
+   [0 0 0 0 0 1 0])
+  ("table" .
+   [0 0 1 0 0])
+  ("nth-child" .
+   [0 0 2 4 0 0 0 0 0])
+  ("tris" .
+   [4 0 0 0])
+  ("giornoP" .
+   [0 0 0 0 1 0 0])
+  ("meseP" .
+   [0 0 0 0 1])
+  ("annoP" .
+   [0 0 0 1 0])
+  ("tipo" .
+   [5 0 0 0])
+  ("oraP" .
+   [0 0 0 1])
+  ("minutiP" .
+   [0 0 0 1 0 0 0])
+  ("nodoOraA" .
+   [0 0 0 0 0 0 0 1])
+  ("nodoGiorno" .
+   [0 0 0 0 0 0 0 0 0 1])
+  ("nodoMeseA" .
+   [0 0 0 0 0 0 0 0 1])
+  ("nodoMeseP" .
+   [1 0 0 0 0 0 0 0 0])
+  ("nodoAnnoP" .
+   [0 0 0 0 0 0 0 1 0])
+  ("nodoMinutiP" .
+   [0 0 0 0 0 0 0 0 0 0 1])
+  ("nodoTipo" .
+   [0 0 0 0 0 0 1 3])
+  ("nodoImposta" .
+   [0 0 0 0 0 0 1 0 0 0 0])
+  ("gestoreLoad" .
+   [0 0 0 0 0 0 0 0 0 0 1])
+  ("nodoLista" .
+   [1 0 0 0 0 0 2 1 0])
+  ("err" .
+   [5 0 0])
+  ("elementi" .
+   [0 0 0 1 1 0 0 0])
+  ("creaSelect" .
+   [0 0 0 0 0 0 1 0 0 0])
+  ("tipiDiViaggio" .
+   [0 0 0 0 1 0 0 0 0 0 0 0 0])
+  ("opzioni" .
+   [0 0 1 0 0 0 2])
+  ("giorni" .
+   [0 0 0 3 0 0])
+  ("datoP" .
+   [4 0 0 1 0])
+  ("creaLista" .
+   [1 0 0 0 0 0 2 0 0])
+  ("msg" .
+   [4 0 1])
+  ("elemento" .
+   [0 0 0 0 1 0 0 0])
+  ("mesiItaliani" .
+   [0 0 0 0 0 1 0 0 0 0 0 0])
+  ("blur" .
+   [1 0 0 0])
+  ("bgBG" .
+   [0 0 2 0])
+  ("scroll" .
+   [0 0 0 1 0 5])
+  ("numeroDiOpacity" .
+   [0 0 0 0 1 0 0 2 0 0 0 0 0 0 0])
+  ("gestore" .
+   [0 0 0 0 0 0 2])
+  ("nodoMacchina" .
+   [0 0 0 0 0 2 0 0 0 0 0 3])
+  ("alteza" .
+   [0 0 0 0 4 1])
+  ("misuraBlur" .
+   [0 0 1 0 1 0 0 0 0 0])
+  ("offsetTop" .
+   [0 0 0 1 0 0 0 0 0])
+  ("scrollY" .
+   [0 0 0 3 0 0 1])
+  ("altezaDiMacchina" .
+   [0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("scroll123" .
+   [0 0 0 0 0 0 0 1 0])
+  ("verticale" .
+   [0 0 0 1 0 0 0 0 0])
+  ("nodoLogo" .
+   [0 0 0 0 0 3 0 0])
+  ("showRoom" .
+   [1 0 0 0 0 0 0 0])
+  ("text-align" .
+   [0 0 0 1 0 0 1 0 0 8])
+  ("nodoHeader" .
+   [0 0 0 0 0 0 1 0 0 1])
+  ("console" .
+   [0 0 0 3 0 4 10])
+  ("log" .
+   [13 0 3])
+  ("altaY" .
+   [2 0 0 0 0])
+  ("overlay" .
+   [0 0 0 0 1 1 1])
+  ("overflow-x" .
+   [0 0 0 0 0 1 0 0 1 0])
+  ("brand" .
+   [2 0 0 0 3])
+  ("nodoElemento" .
+   [0 0 0 0 0 0 0 0 0 0 0 8])
+  ("createElement" .
+   [0 0 0 0 2 0 0 1 0 0 0 0 7])
+  ("nodoElementoImg" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 12 1])
+  ("indrizioDiFile" .
+   [0 0 0 2 1 1 0 0 0 0 0 0 0 0])
+  ("nodoElementoDiv" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 2])
+  ("BRAND" .
+   [1 0 0 0 0])
+  ("brands" .
+   [2 0 0 1 0 0])
+  ("selezione" .
+   [0 0 0 1 2 0 0 0 0])
+  ("gestor" .
+   [0 0 0 0 0 1])
+  ("gestoreFiltroBrand" .
+   [0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0])
+  ("try" .
+   [2 0 0])
+  ("catch" .
+   [2 0 0 0 0])
+  ("gestoreApriMenu" .
+   [0 0 0 0 1 0 0 0 0 0 0 0 0 0 0])
+  ("elementoCorrente" .
+   [0 0 0 2 0 0 0 0 1 1 0 0 0 0 0 1])
+  ("id" .
+   [6 0])
+  ("B" .
+   [1])
+  ("getElementsByClassName" .
+   [0 0 1 2 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("brandID" .
+   [0 0 0 0 0 0 2])
+  ("brandList" .
+   [0 0 0 0 0 0 6 1 0])
+  ("nodoElementoArticle" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0])
+  ("marca" .
+   [1 0 0 0 0])
+  ("className" .
+   [0 0 0 1 0 0 1 0 0])
+  ("classList" .
+   [0 0 0 1 0 0 2 0 1])
+  ("add" .
+   [3 0 1])
+  ("length" .
+   [0 0 1 7 1 5])
+  ("class" .
+   [0 0 0 1 0])
+  ("remove" .
+   [1 0 1 0 1 3])
+  ("tipi" .
+   [27 0 0 0])
+  ("gestoreFiltroTipo" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0])
+  ("element" .
+   [0 0 0 0 0 0 1])
+  ("tipiList" .
+   [0 0 3 5 7 0 0 0])
+  ("tipiID" .
+   [0 0 1 0 0 0])
+  ("listaInfo" .
+   [0 0 0 0 0 0 0 0 1])
+  ("cfcfcf" .
+   [2 0 0 0 0 0])
+  ("a" .
+   [2])
+  ("Constanti" .
+   [1 0 0 1 0 0 0 0 1])
+  ("creaInfo" .
+   [0 0 0 0 0 1 0 0])
+  ("indrizioImmagine" .
+   [0 0 0 0 1 0 0 0 0 1 0 0 0 0 0 1])
+  ("Fiat" .
+   [1 0 0 0])
+  ("firstElementChild" .
+   [0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0])
+  ("nomeImmagine" .
+   [0 0 0 0 0 2 1 0 0 0 0 1])
+  ("identicatore" .
+   [0 0 0 0 1 0 0 0 0 0 0 0])
+  ("trovato" .
+   [1 0 0 1 0 0 0])
+  ("nomeDiFile" .
+   [0 0 0 0 0 1 0 0 0 0])
+  ("indice" .
+   [0 0 0 0 2 2])
+  ("macchine" .
+   [0 0 0 0 5 0 0 4])
+  ("i" .
+   [1])
+  ("cons" .
+   [0 0 0 4])
+  ("nodoWrapperFotoInfo" .
+   [0 0 0 0 0 0 0 1 0 0 0 0 4 0 0 0 0 0 0])
+  ("nodoWrapper" .
+   [0 0 0 0 0 0 0 0 0 0 1])
+  ("nodoElementoSpan" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 3 0 4])
+  ("nodoElementoLink" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0])
+  ("nodoElementoLiBrand" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0])
+  ("nodoElementoSpanBrand" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0])
+  ("nodoElementoLiModel" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0])
+  ("nodoElementoLiClass" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0])
+  ("nodoElementoLiYear" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0])
+  ("nodoElementoLiPrice" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0])
+  ("nodoElementoSpanModel" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0])
+  ("nodoElementoSpanClass" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0])
+  ("nodoElementoSpanYear" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0])
+  ("nodoElementoLi" .
+   [0 0 0 0 0 0 0 1 0 0 0 0 0 6])
+  ("nodoElementoSpan1" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("nodoMenu" .
+   [1 0 0 0 0 0 0 1])
+  ("nodoElementoSpan2" .
+   [2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("nodoElementoUl" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 2])
+  ("span1" .
+   [1 0 0 0 0])
+  ("li" .
+   [5 0])
+  ("arrowAvanti" .
+   [0 0 0 0 0 0 1 0 0 0 0])
+  ("arrowIndietro" .
+   [0 0 0 0 0 0 0 1 0 0 0 0 0])
+  ("cursor" .
+   [0 0 2 1 0 0])
+  ("pointer" .
+   [0 0 0 2 1 0 0])
+  ("trovaIndice" .
+   [0 0 0 1 0 0 0 0 0 0 0])
+  ("infoIndice" .
+   [0 0 0 0 0 1 0 0 0 2])
+  ("indrizioImmagineInfo" .
+   [0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 2 0 0])
+  ("nomeImmagineInfo" .
+   [0 0 0 0 2 0 0 0 0 0 0 0 0 3 0 1])
+  ("gestoreModulo" .
+   [0 0 0 0 0 0 0 0 0 1 0 0 0])
+  ("nodoCognomeUtente" .
+   [0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0])
+  ("gestoreEmpty" .
+   [0 0 0 0 0 0 0 0 0 2 0 0])
+  ("nodoMobileUtente" .
+   [0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0])
+  ("onblur" .
    [0 0 0 1 0 0])
-  ("mysqli_connect" .
-   [0 0 0 0 0 0 0 0 1 1 0 0 0 0])
-  ("super" .
-   [0 0 1 0 1])))
+  ("gestoreMobile" .
+   [0 0 0 0 0 0 0 0 1 0 0 0 0])
+  ("mobile" .
+   [0 0 0 0 0 2])
+  ("float" .
+   [0 0 1 1 2])
+  ("right" .
+   [0 0 2 0 2])
+  ("imgMacchine" .
+   [0 0 0 0 1 0 0 0 0 0 0])
+  ("margin-bottom" .
+   [0 0 1 0 0 0 0 0 0 2 0 0 0])
+  ("font-" .
+   [0 0 0 0 1])
+  ("foto" .
+   [0 0 2 1])
+  ("resize" .
+   [0 0 0 0 1 0])
+  ("gestoreLarghezzaContenuti" .
+   [0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("Larghezza" .
+   [1 0 0 0 0 0 0 0 0])
+  ("larghezzaLocal" .
+   [0 0 0 1 0 0 0 0 0 0 1 0 0 1])
+  ("paddingContenuti" .
+   [0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("larghezzaFinale" .
+   [0 0 0 0 0 1 0 0 0 0 0 0 0 0 0])
+  ("sinistraFinale" .
+   [0 0 0 0 1 0 0 0 0 0 0 0 0 0])
+  ("stileFinale" .
+   [0 0 0 3 0 0 0 0 0 0 0])
+  ("nodoElementoStyle" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 2 1 1 2])
+  ("regoleStile" .
+   [0 0 0 0 2 0 0 0 0 0 0])
+  ("tuttoHead" .
+   [0 0 0 0 1 0 0 0 0])
+  ("nodoTagHead" .
+   [0 0 0 0 0 1 2 0 0 0 1])
+  ("replaceChild" .
+   [0 0 0 1 0 0 0 0 0 0 0 0])
+  ("lastElementChild" .
+   [0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("nodoHomeBG" .
+   [0 0 0 0 0 0 0 1 1 0])
+  ("media" .
+   [1 0 0 0 0])
+  ("screen" .
+   [0 0 0 0 0 1])
+  ("logoHeader" .
+   [0 0 0 0 0 1 0 0 0 1])
+  ("toShowRoom" .
+   [0 0 0 0 0 0 1 0 0 0])
+  ("toTestDrive" .
+   [0 0 0 0 1 0 0 0 0 0 0])
+  ("fraseDiTestDrive" .
+   [0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0])
+  ("wrapperSinistraBrand" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0])
+  ("wrapperDestraTipi" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 0 0])
+  ("USER" .
+   [3 0 0 0])
+  ("PASS" .
+   [3 0 0 0])
+  ("Final" .
+   [1 0 0 0 0])
+  ("now" .
+   [1 0 0])
+  ("log.txt" .
+   [0 0 0 2 1 0 0])
+  ("the" .
+   [1 0 0])
+  ("connectionTest" .
+   [0 0 0 2 0 0 0 0 0 0 0 0 0 0])
+  ("startConnection" .
+   [0 0 0 1 1 0 0 0 0 0 0 0 0 0 0])
+  ("PTS" .
+   [1 0 0])
+  ("sizeOf" .
+   [0 0 0 1 0 0])
+  ("shoppingList" .
+   [0 0 0 3 0 0 0 0 0 0 0 0])
+  ("export" .
+   [0 0 1 0 0 0])
+  ("wrapperLeft" .
+   [0 0 0 0 0 0 0 0 1 0 0])
+  ("wrapper" .
+   [0 0 0 0 0 0 1])
+  ("overflow" .
+   [0 0 0 1 0 0 0 0])
+  ("ulID" .
+   [0 0 0 1])
+  ("liElement" .
+   [0 0 1 0 1 0 0 0 0])
+  ("textNode" .
+   [0 0 0 0 1 0 0 0])
+  ("ulElement" .
+   [0 0 1 0 0 0 0 0 0])
+  ("node" .
+   [1 0 0 0])
+  ("elementID" .
+   [0 0 0 0 0 0 0 0 1])
+  ("num" .
+   [1 0 0])
+  ("textStr" .
+   [0 0 0 0 0 1 0])
+  ("removeAllChilds" .
+   [0 0 0 0 2 0 0 1 0 0 0 0 0 0 0])
+  ("listMaker" .
+   [0 0 0 0 0 2 1 0 0])
+  ("personMenu" .
+   [1 0 0 0 0 0 0 0 0 0])
+  ("numSortedPerson" .
+   [0 0 0 1 0 0 0 0 0 0 0 0 0 0 0])
+  ("numSortedDynastic" .
+   [0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0])
+  ("numerical" .
+   [0 0 0 0 3 0 0 0 0])
+  ("alphabetical" .
+   [1 0 0 0 0 0 0 0 0 0 0 3])
+  ("numericalOrderMaker" .
+   [0 0 0 2 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("alphabet" .
+   [0 0 0 0 1 0 0 0])
+  ("alphabetSortedDynastic" .
+   [0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("alphabetSortedPerson" .
+   [0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("alphabetSortedPlace" .
+   [0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("alphabeticalOrderMaker" .
+   [0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("tempClass" .
+   [0 0 0 0 0 3 1 0 0])
+  ("tempTeiName" .
+   [0 0 0 0 0 0 1 0 0 0 0])
+  ("highlighters" .
+   [0 0 1 0 0 0 0 0 0 0 0 0])
+  ("new_position" .
+   [0 0 0 0 1 0 0 0 0 0 0 0])
+  ("setTimeout" .
+   [0 0 0 0 0 1 0 0 0 0])
+  ("alias" .
+   [0 0 1 0 5])
+  ("phpinfo" .
+   [0 0 0 2 0 0 0])
+  ("forn" .
+   [0 0 1 0])
+  ("font-family" .
+   [0 0 0 0 0 0 0 1 0 0 0])
+  ("sans-serif" .
+   [1 0 0 0 0 0 0 0 0 0])
+  ("font-weight" .
+   [0 0 0 0 1 0 0 0 0 0 0])
+  ("important" .
+   [0 0 0 0 2 0 0 0 0])
+  ("content" .
+   [0 0 0 0 0 0 1])
+  ("textarea" .
+   [0 0 0 0 0 0 1 0])
+  ("from" .
+   [0 0 0 1])
+  ("def" .
+   [0 0 2])
+  ("tset" .
+   [1 0 0 0])
+  ("print" .
+   [0 0 0 6 1])
+  ("jedi:setup" .
+   [1 0 0 0 0 0 0 0 0 0])
+  ("sum" .
+   [0 0 2])
+  ("list" .
+   [0 0 0 4])
+  ("import" .
+   [0 0 0 0 1 0])))

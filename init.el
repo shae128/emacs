@@ -89,10 +89,11 @@
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Elpy Python mode;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 (elpy-enable)
+(setq python-shell-completion-native-enable nil)
 ;;(setq elpy-modules nil)
 ;;(setq python-python-command "/usr/local/Cellar/python/3.7.0/bin/python3")
+;;change emacs python version
 (setq python-shell-interpreter "/usr/local/Cellar/python/3.7.0/bin/python3")
-(setq python-shell-completion-native-enable nil)
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Flycheck mode;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 
