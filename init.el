@@ -94,6 +94,7 @@
 ;;(setq python-python-command "/usr/local/Cellar/python/3.7.0/bin/python3")
 ;;change emacs python version
 (setq python-shell-interpreter "/usr/local/Cellar/python/3.7.0/bin/python3")
+(setq elpy-rpc-python-command "python3")
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Flycheck mode;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 
@@ -105,6 +106,12 @@
 
 (global-set-key (kbd "C-x g") 'magit-status)
 
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Wind Move;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+(when (fboundp 'windmove-default-keybindings)
+  (windmove-default-keybindings))
+(define-key input-decode-map "\e[1;2A" [S-up])
+(windmove-default-keybindings)
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;INTERFACE;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;; Enable Line Number
