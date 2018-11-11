@@ -204,6 +204,18 @@
 (setcdr evil-insert-state-map nil)
 (define-key evil-insert-state-map [escape] 'evil-normal-state)
 
+;; change mode-line color by evil state
+   (lexical-let ((default-color (cons (face-background 'mode-line)
+                                      (face-foreground 'mode-line))))
+     (add-hook 'post-command-hook
+       (lambda ()
+         (let ((color (cond ((minibufferp) default-color)
+                            ((evil-insert-state-p) '("#009688" . "#ffffff"))
+                            ((evil-emacs-state-p)  '("#262626" . "#86ae86"))
+                            ((buffer-modified-p)   '("#1771b9" . "#ffffff"))
+                            (t default-color))))
+           (set-face-background 'mode-line (car color))
+           (set-face-foreground 'mode-line (cdr color))))))
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Jedi Python mode;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 (add-hook 'python-mode-hook 'jedi:setup)
