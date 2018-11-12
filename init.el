@@ -84,6 +84,7 @@
 ;; latex config
 (require 'ox-latex)
 (add-to-list 'org-latex-packages-alist '("" "minted"))
+(setq org-latex-listings 'minted)
 (setq org-export-latex 'minted)
 (setq org-src-fontify-natively t)
 
@@ -96,6 +97,8 @@
  'org-babel-load-languages
  '((python . t)))
 
+;; stop asking confirmation for code eveluation
+(setq org-confirm-babel-evaluate nil)
 
 ;; enable flyspell in org-mode
 (add-hook 'org-mode-hook 'flyspell-mode)
