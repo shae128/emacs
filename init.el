@@ -97,6 +97,9 @@
  'org-babel-load-languages
  '((python . t)))
 
+;; point to python3
+(setq org-babel-python-command "python3")
+
 ;; stop asking confirmation for code eveluation
 (setq org-confirm-babel-evaluate nil)
 
@@ -131,6 +134,7 @@
 	 "* TODO %?\n %i\n  %a")
 	("j" "Journal" entry (file+datetree "~/.org/journal.org")
 	 "* %?\nEntered on %U\n %i\n %a")))
+
 
 ;; Set to the location of your Org files on your local system
 (setq org-directory "~/.org")
