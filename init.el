@@ -97,6 +97,9 @@
  'org-babel-load-languages
  '((python . t)))
 
+;; add new easy template for python language
+(add-to-list 'org-structure-template-alist '("p" "#+BEGIN_SRC python -n :results output pp replace :exports both\n?\n#+END_SRC"))
+
 ;; point to python3
 (setq org-babel-python-command "python3")
 
