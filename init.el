@@ -104,7 +104,7 @@
 (add-to-list 'org-structure-template-alist '("img" "#+CAPTION: ?\n#+ATTR_LATEX: :width 330px\n./path/to/phto"))
 
 ;; add new page easy template
-(add-to-list 'org-structure-template-alist '("n" "#+LATEX: \\newpage\n\n?"))
+(add-to-list 'org-structure-template-alist '("n" "#+LATEX: \\newpage\n?"))
 
 ;; point to python3
 (setq org-babel-python-command "python3")
