@@ -97,8 +97,14 @@
  'org-babel-load-languages
  '((python . t)))
 
-;; add new easy template for python language
+;; add easy template for python language
 (add-to-list 'org-structure-template-alist '("p" "#+BEGIN_SRC python -n :results output pp replace :exports both\n?\n#+END_SRC"))
+
+;; add easy template for imgae insertion
+(add-to-list 'org-structure-template-alist '("img" "#+CAPTION: ?\n#+ATTR_LATEX: :width 330px\n./path/to/phto"))
+
+;; add new page easy template
+(add-to-list 'org-structure-template-alist '("n" "#+LATEX: \\newpage\n\n?"))
 
 ;; point to python3
 (setq org-babel-python-command "python3")
