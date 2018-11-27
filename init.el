@@ -226,7 +226,7 @@
      (add-hook 'post-command-hook
        (lambda ()
          (let ((color (cond ((minibufferp) default-color)
-                            ((evil-insert-state-p) '("#009688" . "#ffffff"))
+                            ((evil-insert-state-p) '("#f4424b" . "#ffffff"))
                             ((evil-emacs-state-p)  '("#262626" . "#86ae86"))
                             ((buffer-modified-p)   '("#1771b9" . "#ffffff"))
                             (t default-color))))
