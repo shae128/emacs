@@ -30,7 +30,7 @@
     ("~/.org/pythonCert.org" "~/.org/gtd.org" "~/.org/first.org")))
  '(package-selected-packages
    (quote
-    (htmlize windresize elpy jedi magit flycheck evil yasnippet-snippets helm php-auto-yasnippets yasnippet sqlup-mode php-mode emmet-mode auto-complete dracula-theme labburn-theme foggy-night-theme ## zenburn-theme highlight-indent-guides w3 org org-plus-contrib)))
+    (smartparens htmlize windresize elpy jedi magit flycheck evil yasnippet-snippets helm php-auto-yasnippets yasnippet sqlup-mode php-mode emmet-mode auto-complete dracula-theme labburn-theme foggy-night-theme ## zenburn-theme highlight-indent-guides w3 org org-plus-contrib)))
  '(pdf-view-midnight-colors (quote ("#DCDCCC" . "#383838")))
  '(vc-annotate-background "#2B2B2B")
  '(vc-annotate-color-map
@@ -232,6 +232,19 @@
                             (t default-color))))
            (set-face-background 'mode-line (car color))
            (set-face-foreground 'mode-line (cdr color))))))
+
+
+
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;SmartParens;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+(require 'smartparens-config)
+
+(add-hook 'prog-mode-hook 'turn-on-smartparens-strict-mode)
+(add-hook 'markdown-mode-hook 'turn-on-smartparens-strict-mode)
+(add-hook 'org-mode-hook 'turn-on-smartparens-mode)
+
+(global-set-key (kbd "C-M-a") 'sp-beginning-of-sexp)
+(global-set-key (kbd "C-M-e") 'sp-end-of-sexp)
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Jedi Python mode;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 (add-hook 'python-mode-hook 'jedi:setup)
