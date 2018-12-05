@@ -106,6 +106,10 @@
 ;; add new page easy template
 (add-to-list 'org-structure-template-alist '("n" "#+LATEX: \\newpage\n?"))
 
+;; add whiteSpace easy template
+(add-to-list 'org-structure-template-alist '("vs" "#+LATEX: \\vspace{10 mm}\n?"))
+
+
 ;; point to python3
 (setq org-babel-python-command "python3")
 
