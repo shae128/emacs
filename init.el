@@ -30,7 +30,7 @@
     ("~/.org/pythonCert.org" "~/.org/gtd.org" "~/.org/first.org")))
  '(package-selected-packages
    (quote
-    (smartparens htmlize windresize elpy jedi magit flycheck evil yasnippet-snippets helm php-auto-yasnippets yasnippet sqlup-mode php-mode emmet-mode auto-complete dracula-theme labburn-theme foggy-night-theme ## zenburn-theme highlight-indent-guides w3 org org-plus-contrib)))
+    (nlinum smartparens htmlize windresize elpy jedi magit flycheck evil yasnippet-snippets helm php-auto-yasnippets yasnippet sqlup-mode php-mode emmet-mode auto-complete dracula-theme labburn-theme foggy-night-theme ## zenburn-theme highlight-indent-guides w3 org org-plus-contrib)))
  '(pdf-view-midnight-colors (quote ("#DCDCCC" . "#383838")))
  '(vc-annotate-background "#2B2B2B")
  '(vc-annotate-color-map
@@ -292,13 +292,15 @@
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;INTERFACE;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;; Enable Line Number
-(global-linum-mode 1)
+(global-nlinum-mode 1)
+;; (global-linum-mode 1)
+
 
 ;; Enable Mouse
 (xterm-mouse-mode 1)
 
 ;; Add Space after numbers
-(setq linum-format "%d ")
+(setq nlinum-format "%d ")
 
 ;; Add Line and space after numbers
 ;;(setq linum-format "%4d \u2502 ")
