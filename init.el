@@ -30,7 +30,7 @@
     ("~/.org/pythonCert.org" "~/.org/gtd.org" "~/.org/first.org")))
  '(package-selected-packages
    (quote
-    (nlinum smartparens htmlize windresize elpy jedi magit flycheck evil yasnippet-snippets helm php-auto-yasnippets yasnippet sqlup-mode php-mode emmet-mode auto-complete dracula-theme labburn-theme foggy-night-theme ## zenburn-theme highlight-indent-guides w3 org org-plus-contrib)))
+    (nlinum-hl nlinum smartparens htmlize windresize elpy jedi magit flycheck evil yasnippet-snippets helm php-auto-yasnippets yasnippet sqlup-mode php-mode emmet-mode auto-complete dracula-theme labburn-theme foggy-night-theme ## zenburn-theme highlight-indent-guides w3 org org-plus-contrib)))
  '(pdf-view-midnight-colors (quote ("#DCDCCC" . "#383838")))
  '(vc-annotate-background "#2B2B2B")
  '(vc-annotate-color-map
@@ -101,7 +101,7 @@
 (add-to-list 'org-structure-template-alist '("p" "#+BEGIN_SRC python -n :results output pp replace :exports both\n?\n#+END_SRC"))
 
 ;; add easy template for imgae insertion
-(add-to-list 'org-structure-template-alist '("img" "#+CAPTION: ?\n#+ATTR_LATEX: :width 330px\n./path/to/phto"))
+(add-to-list 'org-structure-template-alist '("img" "#+CAPTION: ?\n#+ATTR_LATEX: :width 330px\n[[./path/to/photo]]"))
 
 ;; add new page easy template
 (add-to-list 'org-structure-template-alist '("n" "#+LATEX: \\newpage\n?"))
@@ -293,14 +293,16 @@
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;INTERFACE;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;; Enable Line Number
 (global-nlinum-mode 1)
-;; (global-linum-mode 1)
-
-
-;; Enable Mouse
-(xterm-mouse-mode 1)
+(require 'nlinum-hl) 
+;; after X amount of idle time flush windows to renew numbers
+(run-with-idle-timer 5 t #'nlinum-hl-flush-window)
+(run-with-idle-timer 30 t #'nlinum-hl-flush-all-windows)
 
 ;; Add Space after numbers
 (setq nlinum-format "%d ")
+
+;; Enable Mouse
+(xterm-mouse-mode 1)
 
 ;; Add Line and space after numbers
 ;;(setq linum-format "%4d \u2502 ")
