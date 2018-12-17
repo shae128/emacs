@@ -243,8 +243,8 @@
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;SmartParens;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 (require 'smartparens-config)
 
-(add-hook 'prog-mode-hook 'turn-on-smartparens-strict-mode)
-(add-hook 'markdown-mode-hook 'turn-on-smartparens-strict-mode)
+(add-hook 'prog-mode-hook 'turn-on-smartparens-mode)
+(add-hook 'markdown-mode-hook 'turn-on-smartparens-mode)
 (add-hook 'org-mode-hook 'turn-on-smartparens-mode)
 
 (global-set-key (kbd "C-M-a") 'sp-beginning-of-sexp)
