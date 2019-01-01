@@ -292,14 +292,17 @@
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;INTERFACE;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;; Enable Line Number
-(global-nlinum-mode 1)
-(require 'nlinum-hl) 
+;; (global-nlinum-mode 1)
+;; (require 'nlinum-hl)
+(global-display-line-numbers-mode t)
+(setq display-line-numbers-width-start t)
+
 ;; after X amount of idle time flush windows to renew numbers
-(run-with-idle-timer 5 t #'nlinum-hl-flush-window)
-(run-with-idle-timer 30 t #'nlinum-hl-flush-all-windows)
+;; (run-with-idle-timer 5 t #'nlinum-hl-flush-window)
+;; (run-with-idle-timer 30 t #'nlinum-hl-flush-all-windows)
 
 ;; Add Space after numbers
-(setq nlinum-format "%d ")
+;; (setq nlinum-format "%d ")
 
 ;; Enable Mouse
 (xterm-mouse-mode 1)
